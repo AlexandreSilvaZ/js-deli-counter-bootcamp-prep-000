@@ -1,4 +1,5 @@
 
+
 function takeANumber (katzDeliline,name) {
   katzDeliline.push(name)
   return "Welcome, " + name + ". You are number " + katzDeliline.length + " in line." // typical example of how to add names 
@@ -28,6 +29,7 @@ function currentLine (Newline){
   }
   
 }
+
 
 
 
